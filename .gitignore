@@ -1,0 +1,11 @@
+node_modules/
+dist/
+output/
+.mimosa/
+.DS_Store
+*.zip
+
+# keep lock and cache files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
