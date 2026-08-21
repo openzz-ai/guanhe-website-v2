@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-08-19T05:38:08.521Z",
+  "sessionId": "sess_56fc6de9-a80f-4c49-b803-b30d219fdc35",
+  "event": "PostToolUse",
+  "toolName": "Write",
+  "file": "/Users/zhanghui/Projects/guanhe-website-v2/src/styles/main.css",
+  "outcome": "clear",
+  "coverage": "complete",
+  "findingCount": 0,
+  "durationMs": 3,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}

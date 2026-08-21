@@ -1,0 +1,133 @@
+/* Industrial procurement visual system */
+:root {
+  --gh-primary: #111111;
+  --gh-primary-dark: #181a1b;
+  --gh-secondary: #f04418;
+  --gh-accent: #f04418;
+  --gh-text: #111111;
+  --gh-text-light: #5b5b5b;
+  --gh-border: #ddddda;
+  --gh-surface: #f7f7f5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, 'Helvetica Neue', Helvetica, Arial, 'PingFang SC',
+    'Microsoft YaHei', sans-serif;
+  color: var(--gh-text);
+  background: #fff;
+}
+
+::selection {
+  background: rgba(240, 68, 24, 0.22);
+  color: var(--gh-primary-dark);
+}
+
+/* 通用节段容器 */
+.gh-section {
+  padding: 72px 24px;
+}
+
+.gh-section--surface {
+  background: var(--gh-surface);
+}
+
+.gh-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 节段标题：左侧竖条 + 标题 + 副题 */
+.gh-section-title {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin-bottom: 36px;
+}
+
+.gh-section-title::before {
+  content: '';
+  align-self: stretch;
+  width: 5px;
+  background: var(--gh-accent);
+  border-radius: 2px;
+}
+
+.gh-section-title h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--gh-primary);
+  line-height: 1.3;
+}
+
+.gh-section-title span {
+  font-size: 15px;
+  color: var(--gh-text-light);
+  letter-spacing: 1px;
+}
+
+/* 页头横幅（About / Products / Contact 共用） */
+.gh-page-hero {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 96px 24px 72px;
+}
+
+.gh-page-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(18, 26, 28, 0.9), rgba(38, 48, 49, 0.64));
+}
+
+.gh-page-hero__inner {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gh-page-hero h1 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.gh-page-hero p {
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+/* 淡入动画 */
+@keyframes gh-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.gh-fade-up {
+  animation: gh-fade-up 0.6s ease-out both;
+}
+
+@media (max-width: 960px) {
+  .gh-section {
+    padding: 48px 16px;
+  }
+  .gh-section-title h2 {
+    font-size: 24px;
+  }
+  .gh-page-hero h1 {
+    font-size: 28px;
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "mimosa-finding-ledger-batch/v1",
+  "batchId": "stop-20260820T002832113Z-35728-b8a2319f6343",
+  "runId": "20260820T002832113Z-35728-b8a2319f6343",
+  "runStatus": "inconclusive",
+  "coverage": {
+    "status": "partial",
+    "reasons": [
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "src/data/datasets/cs-elbow-sr-cont.js",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "src/data/datasets/cs-tee.js",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "src/data/datasets/cs-elbow-sr-cont.js",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "src/data/datasets/cs-tee.js",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      }
+    ]
+  },
+  "source": {
+    "component": "zcode-hook",
+    "operationId": "Stop"
+  },
+  "revision": null,
+  "diffHash": "96e461ca5ba97291eb9e0b5ad244e35662e9357f4f1d1918c3bd0655f4c74714",
+  "rulesVersion": "unavailable",
+  "sessionHash": "dd6d2577940f355c2f8ce7db518fe01e02874f2dde2243c52c53bccbd9afc4af",
+  "reportRef": ".mimosa/reports/task-review-sess_56fc6de9-a80f-4c49-b803-b30d219fdc35-20260820T002832113Z-35728-b8a2319f6343.json",
+  "events": [],
+  "observedFindingIds": [],
+  "verifiedFiles": [
+    {
+      "file": "src/data/datasets.js",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "src/data/datasets/cs-elbow-sr-cont.js",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "src/data/datasets/cs-tee.js",
+      "direct": "complete",
+      "projectContext": "partial"
+    }
+  ],
+  "recordedAt": "2026-08-20T00:28:32.295Z"
+}

@@ -1,0 +1,378 @@
+{
+    "大连管和件管道有限公司": {
+        "cht": "大連管和件筦道有限公司",
+        "en": "Dalian Guanhejian Pipeline Co., Ltd",
+        "jp": "大連管和件管路有限公司",
+        "de": "Dalian Guanhejian Pipeline Co., Ltd.",
+        "ara": "داليان الأنابيب وقطع الأنابيب المحدودة",
+        "kor": "대련관화부품도관유한공사",
+        "$files": [
+            "views\\Head.vue"
+        ]
+    },
+    "首页": {
+        "cht": "首頁",
+        "en": "home page",
+        "jp": "トップページ",
+        "de": "Startseite",
+        "ara": "الصفحة الرئيسية",
+        "kor": "첫 페이지",
+        "$files": [
+            "views\\Head.vue"
+        ]
+    },
+    "公司简介": {
+        "cht": "公司簡介",
+        "en": "Company Introduction",
+        "jp": "会社概要",
+        "de": "Einführung des Unternehmens",
+        "ara": "لمحة عن الشركة",
+        "kor": "회사 소개",
+        "$files": [
+            "views\\Head.vue"
+        ]
+    },
+    "产品展示": {
+        "cht": "產品展示",
+        "en": "Product Display",
+        "jp": "製品の展示",
+        "de": "Produktanzeige",
+        "ara": "عرض المنتجات",
+        "kor": "제품 전시",
+        "$files": [
+            "views\\Head.vue"
+        ]
+    },
+    "联系我们": {
+        "cht": "聯繫我們",
+        "en": "contact us",
+        "jp": "連絡先",
+        "de": "Kontaktieren Sie uns",
+        "ara": "اتصل بنا",
+        "kor": "연락처",
+        "$files": [
+            "views\\Head.vue"
+        ]
+    },
+    "高端品质铸就安全，持久耐用值得信赖": {
+        "cht": "高端品質鑄就安全,持久耐用值得信賴",
+        "en": "High end quality creates safety, durability, and trustworthiness",
+        "jp": "ハイエンド品質で安全、耐久性に優れた信頼性を実現",
+        "de": "Hochwertige Qualität schafft Sicherheit, Langlebigkeit und Vertrauenswürdigkeit",
+        "ara": "جودة عالية يلقي آمنة ودائمة وموثوق بها",
+        "kor": "안전하고 내구성이 뛰어난 고급 품질",
+        "$files": [
+            "App.vue"
+        ]
+    },
+    "检测到您修改语言可能存在错误,请刷新页面进行阅读噢!": {
+        "cht": "檢測到您修改語言可能存在錯誤,請刷新頁面進行閱讀噢！",
+        "en": "We have detected that there may be errors in your language modification. Please refresh the page to read!",
+        "jp": "言語変更にエラーがあることが検出されました。ページを更新して読んでくださいね！",
+        "de": "Wir haben festgestellt, dass Fehler in Ihrer Sprachänderung auftreten können. Bitte aktualisieren Sie die Seite zum Lesen!",
+        "ara": "تم الكشف عن خطأ في تعديل اللغة ، يرجى تحديث الصفحة لقراءة أوه !",
+        "kor": "언어 수정 오류가 발견되었습니다. 페이지를 새로 고쳐서 읽으십시오!",
+        "$files": [
+            "views\\Introduce.vue"
+        ]
+    },
+    "提交": {
+        "cht": "提交",
+        "en": "Submit",
+        "jp": "送信",
+        "de": "Absenden",
+        "ara": "قدم",
+        "kor": "제출",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    " 电话: +86 +411 6666 9976 / 6666 9971 / 666 9972": {
+        "cht": "電話：+86 +411 6666 9976 / 6666 9971 / 666 9972",
+        "en": "Phone:+86+411 6666 9976/6666 9971/666 9972",
+        "jp": "電話：+86+411 6666 9976/6666 9971/666 9972",
+        "de": "Telefon:+86+411 6666 9976/6666 9971/666 9972",
+        "ara": "رقم الهاتف : 86 + 411 6666 9976 / 6666 9971 / 666 9972",
+        "kor": "전화: +86 +411 6666 9976 / 6666 9971 / 666 9972",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "手机: +86  180 4261 9992": {
+        "cht": "手機：+86 180 4261 9992",
+        "en": "Mobile:+86 180 4261 9992",
+        "jp": "携帯電話：+86 180 4261 9992",
+        "de": "Mobil:+86 180 4261 9992",
+        "ara": "الهاتف المحمول : + 86 180 4261 9992",
+        "kor": "휴대폰: +86 180 4261 9992",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "传真: +86 +411 6666 9975": {
+        "cht": "傳真：+86 +411 6666 9975",
+        "en": "Fax:+86+411 6666 9975",
+        "jp": "ファックス：+86+411 6666 9975",
+        "de": "Fax:+86+411 6666 9975",
+        "ara": "فاكس : 86 + 411 6666 9975",
+        "kor": "팩스: +86 +411 6666 9975",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "请填写您的称呼噢~": {
+        "cht": "請填寫您的稱呼噢~",
+        "en": "Please fill in your address~",
+        "jp": "お名前を記入してくださいね~",
+        "de": "Bitte geben Sie Ihre Adresse ein~",
+        "ara": "من فضلك املأ اسمك",
+        "kor": "호칭을 적어주세요. 오 ~",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "您输入的过长啦~": {
+        "cht": "您輸入的過長啦~",
+        "en": "Your input is too long~",
+        "jp": "入力が長すぎます~",
+        "de": "Deine Eingabe ist zu lang~",
+        "ara": "لقد دخلت فترة طويلة جداً ~",
+        "kor": "너무 길게 입력했어요.",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "请填写您的联系方式噢~": {
+        "cht": "請填寫您的聯繫方式噢~",
+        "en": "Please provide your contact information~",
+        "jp": "連絡先を記入してくださいね~",
+        "de": "Bitte geben Sie Ihre Kontaktdaten an~",
+        "ara": "يرجى ملء في تفاصيل الاتصال الخاصة بك ~ ~",
+        "kor": "연락처 적어주세요.",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "请填写留言内容噢~": {
+        "cht": "請填寫留言內容噢~",
+        "en": "Please fill in the message content~",
+        "jp": "メッセージの内容を記入してくださいね~",
+        "de": "Bitte füllen Sie den Inhalt der Nachricht aus~",
+        "ara": "يرجى ملء الرسالة .",
+        "kor": "댓글 달아주세요. 오 ~",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "留言已提交~": {
+        "cht": "留言已提交~",
+        "en": "Message submitted~",
+        "jp": "メッセージが送信されました~",
+        "de": "Nachricht gesendet~",
+        "ara": "رسالة قدمت ~",
+        "kor": "댓글이 제출되었습니다 ~",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "留言失败，请您再次重试~": {
+        "cht": "留言失敗，請您再次重試~",
+        "en": "Message failed, please try again~",
+        "jp": "メッセージが失敗しました。もう一度やり直してください。",
+        "de": "Nachricht fehlgeschlagen, bitte versuchen Sie es erneut~",
+        "ara": "الرسالة فشلت ، يرجى المحاولة مرة أخرى .",
+        "kor": "댓글이 실패했습니다. 다시 시도하십시오.",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "©2024版权所有 大连管和件管道有限公司": {
+        "cht": "© 2024版權所有大連管和件筦道有限公司",
+        "en": "© Copyright 2024 Dalian Pipe and Parts Pipeline Co., Ltd",
+        "jp": "©2024著作権所有大連管和件管路有限公司",
+        "de": "© Copyright 2024 Dalian Pipe and Parts Pipeline Co., Ltd",
+        "ara": "© داليان الأنابيب وقطع الأنابيب المحدودة",
+        "kor": "©2024 판권소유 대련관화부품도관유한회사",
+        "$files": [
+            "views\\Footer.vue"
+        ]
+    },
+    "XXXXXXXXXX号": {
+        "cht": "XXXXXXXXXX號",
+        "en": "XXXXXXXXXXX number",
+        "jp": "XXXXXXXX号",
+        "de": "XXXXXXXXXXX Nummer",
+        "ara": "عدد الأعضاء",
+        "kor": "XXXXXXXXX 번호",
+        "$files": [
+            "views\\Footer.vue"
+        ]
+    },
+    "留言板": {
+        "cht": "留言板",
+        "en": "Message board",
+        "jp": "伝言板",
+        "de": "Message Board",
+        "ara": "رسالة المجلس",
+        "kor": "게시판",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    " 名称: 大连管和件管道有限公司": {
+        "cht": "名稱：大連管和件筦道有限公司",
+        "en": "Name: Dalian Guanhejian Pipeline Co., Ltd",
+        "jp": "名称：大連管和件管路有限公司",
+        "de": "Name: Dalian Guanhejian Pipeline Co., Ltd",
+        "ara": "داليان الأنابيب وقطع الأنابيب المحدودة",
+        "kor": "명칭: 대련관화부품도관유한회사",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    " 地址: 中国·辽宁省大连市中山区鲁迅路191号环海公寓1单元3楼22号": {
+        "cht": "地址：中國·遼寧省大連市中山區魯迅路191號環海公寓1單元3樓22號",
+        "en": "Address: No. 22, 3rd Floor, Unit 1, Huanhai Apartment, No. 191 Lu Xun Road, Zhongshan District, Dalian City, Liaoning Province, China",
+        "jp": "住所：中国・遼寧省大連市中山区魯迅路191号環海マンション1単元3階22号",
+        "de": "Adresse: Nr. 22, 3rd Floor, Einheit 1, Huanhai Apartment, Nr. 191 Lu Xun Road, Zhongshan District, Dalian Stadt, Liaoning Provinz, China",
+        "ara": "العنوان : رقم 22 ، الطابق 3 ، وحدة 1 ، هوان هاي شقة ، رقم 191 لو شون الطريق ، منطقة تشونغشان ، داليان ، لياونينغ ، الصين",
+        "kor": "주소: 중국·랴오닝성 다롄시 중산구 루쉰로 191호 환해아파트 1단원 3층 22호",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "您的称呼": {
+        "cht": "您的稱呼",
+        "en": "Your address",
+        "jp": "あなたの名前",
+        "de": "Ihre Adresse",
+        "ara": "اسمك",
+        "kor": "당신의 호칭",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "您的联系方式": {
+        "cht": "您的聯繫方式",
+        "en": "Your contact information",
+        "jp": "ご連絡先",
+        "de": "Ihre Kontaktdaten",
+        "ara": "تفاصيل الاتصال",
+        "kor": "연락처",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "您要留言的内容": {
+        "cht": "您要留言的內容",
+        "en": "The content you want to leave a message about",
+        "jp": "メッセージの内容",
+        "de": "Der Inhalt, über den Sie eine Nachricht hinterlassen möchten",
+        "ara": "المحتوى الذي تريد ترك رسالة",
+        "kor": "메모할 내용",
+        "$files": [
+            "views\\Contact.vue"
+        ]
+    },
+    "法兰产品系列": {
+        "cht": "法蘭產品系列",
+        "en": "Flange product series",
+        "jp": "フランジ製品シリーズ",
+        "de": "Flansch-Produktserie",
+        "ara": "شفة سلسلة المنتجات",
+        "kor": "플랜지 제품군",
+        "$files": [
+            "views\\falan.vue"
+        ]
+    },
+    "查看参数详情": {
+        "cht": "查看參數詳情",
+        "en": "View parameter details",
+        "jp": "パラメータ詳細の表示",
+        "de": "Parameterdetails anzeigen",
+        "ara": "عرض تفاصيل المعلمة",
+        "kor": "매개변수 상세 정보 보기",
+        "$files": [
+            "views\\falan.vue",
+            "views\\gangguan.vue",
+            "views\\guanjian.vue"
+        ]
+    },
+    "钢管产品系列": {
+        "cht": "鋼管產品系列",
+        "en": "Steel pipe product series",
+        "jp": "鋼管製品シリーズ",
+        "de": "Produktreihe Stahlrohre",
+        "ara": "أنابيب الصلب سلسلة المنتج",
+        "kor": "강관 제품군",
+        "$files": [
+            "views\\gangguan.vue"
+        ]
+    },
+    "主营产品:结构管/输送流体管/低中压锅炉管/高压锅炉管/石油裂化管/化肥设备用管/船用管/油套管": {
+        "cht": "主營產品：結構管/輸送流體管/低中壓鍋爐管/高壓鍋爐管/石油裂化管/化肥設備用管/船用管/油套管",
+        "en": "Main products: structural pipes/conveying fluid pipes/low and medium pressure boiler pipes/high-pressure boiler pipes/petroleum cracking pipes/fertilizer equipment pipes/marine pipes/oil casings",
+        "jp": "主な製品：構造管/輸送流体管/低中圧ボイラ管/高圧ボイラ管/石油分解管/化学肥料設備用管/船用管/オイルジャケット管",
+        "de": "Hauptprodukte: strukturelle Rohre/Förderflüssigkeitsrohre/Nieder- und Mitteldruck Kesselrohre/Hochdruck Kesselrohre/Erdöl Cracking Rohre/Düngemittelausrüstungsrohre/Marine Rohre/Ölgehäuse",
+        "ara": "المنتجات الرئيسية : هيكل الأنابيب / أنابيب نقل السوائل / منخفضة ومتوسطة الضغط أنابيب الغلايات / ارتفاع ضغط أنابيب الغلايات / تكسير النفط الأنابيب / معدات الأسمدة الكيماوية الأنابيب / أنابيب البحرية / النفط الأكمام",
+        "kor": "주요경영제품: 구조관/수송유체관/저중압보일러관/고압보일러관/석유분열관/화학비료설비용관/선박용관/오일튜브",
+        "$files": [
+            "views\\gangguan.vue"
+        ]
+    },
+    "钢管产品": {
+        "cht": "鋼管產品",
+        "en": "Steel pipe products",
+        "jp": "鋼管製品",
+        "de": "Stahlrohre",
+        "ara": "منتجات الأنابيب الفولاذية",
+        "kor": "강관 제품",
+        "$files": [
+            "views\\gangguan.vue"
+        ]
+    },
+    "管件产品系列": {
+        "cht": "管件產品系列",
+        "en": "Pipe fittings product series",
+        "jp": "継手製品シリーズ",
+        "de": "Produktserie Rohrformstücke",
+        "ara": "الأنابيب والتجهيزات سلسلة",
+        "kor": "파이프 제품군",
+        "$files": [
+            "views\\guanjian.vue"
+        ]
+    },
+    "大连管和件管道有限公司前身为新易欧国际贸易有限公司，始建于1993年，坐落于东北三省最大的港口城市-辽宁大连。基于大连得天独厚的优越地理条件，东北三省雄厚的工业基础，我司经过近20年的经营，也在不断发展壮大。我司始建之初以经营出口各种管路配件为主，包括碳钢不锈钢弯头，三通，异径管，管帽，可执行的标准 ASME B16.9,B16.28, JIS,DIN,GOST等等。法兰包括ANSI,API,MSS, DIN,UNI KS,JIS等等标准。产品应用范围包括造船，石油化工，机械制造，建筑，输水，输油输气，乃至电力航天等各个领域。随着我国经济基础及钢铁产业不断壮大，我司的经营方向也从单一经营配件，逐渐转型到经营出口各种管材以此来迎合国际市场对管材及其配套的各种配件的全面需求。钢管包括碳钢,不锈钢,合金钢等材料，可执行的标准包括ASTM,ASME, API5L,API5CT,DIN,EN GOST等等。经过近20年的经营管理，我司本着信誉第一客户至上的原则形成并建立了稳定的供货基地，包括管路配件供货商40多家，钢管合作企业包括TPCO,CSST，HENGYANG VALIN,TSINGSHAN STEEL,YANGZHOU  ,JIANLONG STEEL,BAO STEEL, BAOGANG STEEL ,ANSHAN STEEL,TONGGANG STEEL, YANTAI STEEL TUBE, LIAOYANG LARGE SCALE STEEL, QINGSHAN STEEL, WUXI SEAMLESS, CHENGDE STEEL等几十家大型碳钢，不锈钢，无缝焊缝管生产企业，并与其中的YANTAISTEEL建立了投资股份关系。产品销售范围也从初始的日本，韩国，新加坡印度发展到美国，加拿大，澳大利，意大利，以色列，俄罗斯，沙特阿拉伯，土库曼斯坦，埃及，南非等众多国家地区。我司本着诚信为本的原则，以质量求生存，以信誉得发展的企业经营理念，愿以更加满意的产品和服务，与广大客户一起开创双赢局面，共创美好未来。": {
+        "cht": "大連管和件筦道有限公司前身為新易歐國際貿易有限公司,始建於1993年,坐落於東北三省最大的港口城市-遼寧大連。 基於大連得天獨厚的優越地理條件,東北三省雄厚的工業基礎,我司經過近20年的經營,也在不斷發展壯大。 我司始建之初以經營出口各種管路配件為主,包括碳鋼不銹鋼彎頭,三通,异徑管,管帽,可執行的標準ASME B16.9,B16.28,JIS,DIN,GOST等等。 法蘭包括ANSI,API,MSS,DIN,UNI KS,JIS等等標準。 產品應用範圍包括造船,石油化工,機械製造,建築,輸水,輸油輸氣,乃至電力航太等各個領域。 隨著我國經濟基礎及鋼鐵產業不斷壯大,我司的經營方向也從單一經營配件,逐漸轉型到經營出口各種管材以此來迎合國際市場對管材及其配套的各種配件的全面需求。 鋼管包括碳鋼,不銹鋼,合金鋼等資料,可執行的標準包括ASTM,ASME,API5L,API5CT,DIN,EN GOST等等。 經過近20年的經營管理,我司本著信譽第一客戶至上的原則形成並建立了穩定的供貨基地,包括管路配件供應商40多家,鋼管合作企業包括TPCO,CSST,HENGYANG VALIN,TSINGSHAN STEEL,YANGZHOU,JIANLONG STEEL,BAO STEEL,BAOGANG STEEL,ANSHAN STEEL,TONGGANG STEEL,YANTAI STEEL TUBE,LIAOYANG LARGE SCALE STEEL,QINGSHAN STEEL,WUXI SEAMLESS,CHENGDE STEEL等幾十家大型碳鋼,不銹鋼,無縫焊縫管生產企業,並與其中的YANTAISTEEL建立了投資股份關係。 產品銷售範圍也從初始的日本,韓國,新加坡印度發展到美國,加拿大,澳大利,義大利,以色列,俄羅斯,沙烏地阿拉伯,土庫曼共和國,埃及,南非等眾多國家地區。 我司本著誠信為本的原則,以質量求生存,以信譽得發展的企業經營理念,願以更加滿意的產品和服務,與廣大客戶一起開創雙贏局面,共創美好未來。",
+        "en": "Dalian Guanhe Pipeline Co., Ltd., formerly known as Xinyeou International Trade Co., Ltd., was founded in 1993 and is located in Dalian, Liaoning, the largest port city in the three northeastern provinces of China. Based on the advantageous geographical conditions of Dalian and the strong industrial foundation of the three northeastern provinces, our company has been continuously developing and growing after nearly 20 years of operation. At the beginning of our company's establishment, we mainly engaged in exporting various pipeline accessories, including carbon steel stainless steel elbows, tees, reducers, pipe caps, and executable standards such as ASME B16.9, B16.28, JIS, DIN, GOST, etc. The flange includes standards such as ANSI, API, MSS, DIN, UNI KS, JIS, etc. The product's application scope includes various fields such as shipbuilding, petrochemicals, machinery manufacturing, construction, water transportation, oil and gas transportation, and even power and aerospace. With the continuous growth of China's economic foundation and steel industry, our business direction has gradually shifted from single operation of accessories to exporting various types of pipes to meet the comprehensive demand of the international market for pipes and their supporting accessories. Steel pipes include materials such as carbon steel, stainless steel, alloy steel, etc. The executable standards include ASTM, ASME, API5L, API5CT, DIN, EN GOST, etc. After nearly 20 years of business management, our company has formed and established a stable supply base based on the principle of reputation first and customer first, including more than 40 pipeline accessory suppliers. Steel pipe cooperative enterprises include TPCO, CSST, HENGYANG VALIN, TSINGSHAN STEEL, YANGZHOU, JIANGLONG STEEL, BAO STEEL, BAOGANG STEEL, ANSHAN STEEL, TONGGANG STEEL, YANTAI STEEL TUBE, LIAOYANG LARGE SCALE STEEL, QINGSHAN STEEL, WUXI SEAMLESS, CHENGDE STEEL and dozens of other large carbon steel, stainless steel, and seamless welded pipe production enterprises have established investment and shareholding relationships with YANTAISTEEL among them. The product sales range has also expanded from Japan, South Korea, Singapore, and India to many countries and regions such as the United States, Canada, Australia, Italy, Israel, Russia, Saudi Arabia, Turkmenistan, Egypt, and South Africa. Our company adheres to the principle of honesty, strives for survival through quality, and develops through reputation. We are willing to create a win-win situation with our customers and work together to create a better future with more satisfactory products and services.",
+        "jp": "大連管和件管路有限公司は新易欧国際貿易有限公司を前身とし、1993年に設立され、東北3省最大の港湾都市である遼寧省大連に位置している。大連の恵まれた優れた地理条件、東北三省の豊富な工業基礎に基づいて、我が社は20年近くの経営を経て、絶えず発展して強大になっています。弊社は建設開始当初、炭素鋼ステンレス鋼エルボ、三通、異径管、管帽、実行可能な標準ASME B 16.9、B 16.28、JIS、DIN、GOSTなど、輸出用の各種管路部品を主に経営していました。フランジにはANSI、API、MSS、DIN、UNI KS、JISなどの規格が含まれています。製品の応用範囲は造船、石油化学工業、機械製造、建築、送水、送油ガス、ひいては電力宇宙飛行などの各分野を含む。我が国の経済基盤と鉄鋼産業が絶えず強大になるにつれて、我が社の経営方向も単一経営部品から、徐々に経営に転換して各種管材を輸出し、それによって国際市場の管材とその付属部品に対する全面的な需要に迎合する。鋼管は炭素鋼、ステンレス鋼、合金鋼などの材料を含み、実行可能な基準はASTM、ASME、API 5 L、API 5 CT、DIN、EN GOSTなどを含む。20年近くの経営管理を経て、我が社は信用第一顧客至上の原則に基づいて形成し、安定した供給基地を設立し、パイプライン部品供給業者40社以上を含み、鋼管協力企業はTPCO、CSST、HENGYANG VALIN、TSINGSHAN STEEL、YANGZHOU、JIANLONG STEEL、BAO STEEL、BAOGANG STEEL、ANSHAN STEEL、TONGGGANG STEEL、YANTAI STEEL TUBE、LIAOYANG LARGE SCALE STEEL、QINGSHAN STEEL、WUXI SEAMLESS、CHENGDE STEELなど数十社の大型炭素鋼、ステンレス鋼、シームレス溶接管生産企業は、その中のYANTAISTELと投資株式関係を構築した。製品の販売範囲も初期の日本、韓国、シンガポールインドから米国、カナダ、オーストラリア、イタリア、イスラエル、ロシア、サウジアラビア、トルクメニスタン、エジプト、南アフリカなど多くの国の地域に発展している。我が社は誠実さを基本とする原則に基づいて、品質で生存を求めて、信用で発展する企業経営理念を得て、もっと満足する製品とサービスで、広大な取引先と一緒にウィンウィンの局面を切り開いて、共に美しい未来を創造したいです。",
+        "de": "Dalian Guanhe Pipeline Co., Ltd., früher bekannt als Xinyeou International Trade Co., Ltd., wurde im 1993 gegründet und befindet sich in Dalian, Liaoning, der größten Hafenstadt in den drei nordöstlichen Provinzen Chinas. Basierend auf den vorteilhaften geografischen Bedingungen von Dalian und der starken industriellen Grundlage der drei nordöstlichen Provinzen, hat sich unser Unternehmen nach fast 20-jährigem Betrieb kontinuierlich weiterentwickelt und wächst. Zu Beginn der Gründung unserer Firma beschäftigten wir uns hauptsächlich mit dem Export verschiedener Rohrleitungszubehör, einschließlich Kohlenstoffstahl-Edelstahlbögen, T-Stücke, Reduzierstücke, Rohrkappen und ausführbare Standards wie ASME B16.9, B16.28, JIS, DIN, GOST, etc. Der Flansch umfasst Standards wie ANSI, API, MSS, DIN, UNI KS, JIS, etc. Der Anwendungsbereich des Produkts umfasst verschiedene Bereiche wie Schiffbau, Petrochemie, Maschinenbau, Bau, Wassertransport, Öl- und Gastransport und sogar Energie und Luft- und Raumfahrt. Mit dem kontinuierlichen Wachstum von Chinas wirtschaftlicher Grundlage und Stahlindustrie hat sich unsere Geschäftsrichtung allmählich vom einzelnen Betrieb von Zubehör zum Export verschiedener Arten von Rohren verschoben, um die umfassende Nachfrage des internationalen Marktes für Rohre und deren unterstützendes Zubehör zu erfüllen. Stahlrohre umfassen Materialien wie Kohlenstoffstahl, Edelstahl, legierter Stahl usw. Die ausführbaren Normen umfassen ASTM, ASME, API5L, API5CT, DIN, EN GOST, etc. Nach fast 20-jähriger Betriebsführung hat unser Unternehmen eine stabile Lieferbasis gebildet und etabliert, die auf dem Prinzip des Rufs zuerst und Kunden zuerst basiert, einschließlich mehr als 40-Rohrzusatzlieferanten. Stahlrohrkooperative Unternehmen umfassen TPCO, CSST, HENGYANG VALIN, TSINGSHAN STAHL, YANGZHOU, JIANGLONG STAHL, BAO STAHL, BAOGANG STAHL, ANSHAN STAHL, TONGANG STAHL, YANTAI STAHL, LIAOYANG GROSSER SCALE STAHL, QINGSHAN STAHL, WUXI SIEGLOSS, CHENGDE STEEL und Dutzende von anderen großen Kohlenstoffstahl-, Edelstahl- und nahtlos geschweißten Rohrproduktionsunternehmen haben Investitions- und Beteiligungsbeziehungen mit YANTAISTEEL unter ihnen aufgebaut. Die Produktpalette wurde auch von Japan, Südkorea, Singapur und Indien auf viele Länder und Regionen wie die Vereinigten Staaten, Kanada, Australien, Italien, Israel, Russland, Saudi Arabien, Turkmenistan, Ägypten und Südafrika ausgeweitet. Unser Unternehmen hält sich an das Prinzip der Ehrlichkeit, strebt nach Überleben durch Qualität und entwickelt sich durch Ruf. Wir sind bereit, eine Win-Win-Situation mit unseren Kunden zu schaffen und arbeiten zusammen, um eine bessere Zukunft mit zufriedenstellenderen Produkten und Dienstleistungen zu schaffen.",
+        "ara": "داليان الأنابيب وقطع الأنابيب المحدودة ، التي كانت تعرف سابقا باسم xinyiou التجارة الدولية المحدودة ، تأسست في عام 1993 ، ويقع في ثلاث مقاطعات شمال شرق أكبر ميناء مدينة داليان بمقاطعة لياونينغ . استنادا إلى الظروف الجغرافية المواتية في داليان ، ثلاث مقاطعات في شمال شرق الصين قاعدة صناعية قوية ، بعد ما يقرب من 20 عاما من الإدارة ، كما تم تطوير مستمر . في بداية البناء ، ونحن أساسا التعامل في تصدير جميع أنواع الأنابيب والتجهيزات ، بما في ذلك الكربون الصلب والفولاذ المقاوم للصدأ الكوع ، المحملة ، والحد من الأنابيب ، الأنابيب كاب ، ASME B16.9 ، B16.28 ، JIS ، الدين ، غوست ، وهلم جرا . شفة تشمل مقاييس ، والمعهد ، المخطوطات ، الدين ، يوني كانساس ، JIS ، وهلم جرا . وتشمل المنتجات بناء السفن ، والبتروكيماويات ، وتصنيع الآلات ، والبناء ، والمياه ، والنفط والغاز ، وحتى الطاقة الكهربائية والفضاء وغيرها من المجالات . جنبا إلى جنب مع بلدنا مؤسسة اقتصادية و صناعة الحديد والصلب ينمو دون توقف ، لدينا إدارة الاتجاه أيضا من إدارة واحدة والتجهيزات ، والتحول تدريجيا إلى إدارة تصدير جميع أنواع الأنابيب من أجل تلبية السوق الدولية إلى الأنابيب و كل نوع من الملحقات مطابقة الطلب الشامل . أنابيب الصلب بما في ذلك الكربون الصلب والفولاذ المقاوم للصدأ وسبائك الصلب وغيرها من المواد ، والمعايير القابلة للتنفيذ بما في ذلك الجمعية الأمريكية ، ASME ، API5L ، API5CT ، الدين ، EN غوست وهلم جرا . من خلال ما يقرب من 20 عاما من إدارة الأعمال ، وإدارة الشركة ، وشركتنا في روح من هيبة العميل أولا ، من حيث المبدأ ، وأنشأنا قاعدة توريد مستقرة ، بما في ذلك أكثر من 40 من الأنابيب والتجهيزات الموردين ، بما في ذلك التعاون أنابيب الصلب TPCO ، CSST ، hengyang فالين ، tsingsansan STEEEEEL ، yangZHOU ، jianglong STEEEEEEEEEL ، BAO STEEEEEL ، BAOG STEEEEEEEEL ، ANSHAN STEEEEEEEEEEL ، EEEEEEEEEEEL ، EEEEEEEEEEEEL ، EEEEEEEEEEEEEEL ، EEEEEEEEEEEEEEEEEليز عشرات من الشركات الكبيرة مثل الكربون الصلب والفولاذ المقاوم للصدأ ، سلس أنابيب الصلب الملحومة ، الخ . مبيعات المنتجات تتراوح أيضا من اليابان وكوريا وسنغافورة والهند إلى الولايات المتحدة وكندا واستراليا وايطاليا واسرائيل وروسيا والمملكة العربية السعودية وتركمانستان ومصر وجنوب أفريقيا والعديد من البلدان والمناطق الأخرى . أنا أمين بحسن نية من حيث المبدأ ، من أجل البقاء على قيد الحياة من خلال الجودة ، والائتمان من أجل تطوير مفهوم الأعمال التجارية ، على استعداد لتلبية المزيد من المنتجات والخدمات ، جنبا إلى جنب مع العملاء لخلق وضع مربح للجانبين ، وخلق مستقبل أفضل .",
+        "kor": "대련관화부품도관유한회사의 전신은 신이유럽국제무역유한회사로서 1993년에 건설되기 시작하였고 동북 3성에서 가장 큰 항구도시인 료녕성 대련에 자리잡고있다.대련의 독특한 우월한 지리적조건에 근거하여 동북3성의 풍부한 공업기초는 우리 회사도 근 20년간의 경영을 거쳐 끊임없이 발전하고 강대해지고있다.당사는 건설 초기에 탄소강 스테인리스강 커브, 삼통, 이경관, 관모, 실행 가능한 표준 ASME B16.9, B16.28, JIS, DIN, GOST 등을 포함한 각종 파이프라인 부품을 수출하는 것을 위주로 경영하였다.플랜지에는 ANSI, API, MSS, DIN, UNI KS, JIS 등의 표준이 포함됩니다.제품의 응용 범위는 조선, 석유 화학 공업, 기계 제조, 건축, 송수, 송유 송기, 나아가 전력 우주 등 각 분야를 포함한다.중국의 경제 기초와 철강 산업이 끊임없이 강대해짐에 따라 우리 회사의 경영 방향도 단일 경영 부품에서 점차 각종 관재를 경영하고 수출하는 것으로 전환하여 국제 시장의 관재 및 그 부대적인 각종 부품에 대한 전면적인 수요에 영합한다.강관에는 탄소강, 스테인리스강, 합금강 등 재료가 포함되며 집행가능한 표준에는 ASTM, ASME, API5L, API5CT, DIN, EN GOST 등이 포함된다.근 20년간의 경영관리를 통해 당사는 신용제일고객지상의 원칙에 따라 안정적인 공급기지를 형성하고 설립하였으며 배관부품공급업체 40여개를 포함하고 강관합작기업으로는 TPCO, CSST, HENGYANG VALIN, TSINGSHAN STEEL, YANGZHOU, JIANLONG STEEL, BAO STEEL, BAOGANG STEEL, ANG STEEL, ANG STEL, ANG STEL, ANG STEL, ANG SAN SEEL, ANG SERGAIL, QUGSTANG SAONG SEEL, QUEL, QUGSTEEL SAONG SELIEL, QULSTEEL SAONG SAONG SAONG SEEL, QULSTEEL, QUEL SAONG SAONG SAONG 대형 탄소강, 스테인리스강, 무봉용접봉관 생산업체를 설립하고 그 중 YANTAISTEEL과 투자지분관계를 맺었다.제품 판매 범위도 초기의 일본, 한국, 싱가포르 인도에서 미국, 캐나다, 오스트레일리아, 이탈리아, 이스라엘, 러시아, 사우디아라비아, 투르크메니스탄, 이집트, 남아프리카 등 많은 국가 지역으로 발전했다.우리 회사는 신용을 근본으로 하는 원칙에 입각하여 품질로 생존을 추구하고 신용으로 발전하는 기업 경영 이념으로 더욱 만족스러운 제품과 서비스로 많은 고객과 함께 윈윈 국면을 개척하고 아름다운 미래를 함께 창조하고자 합니다.",
+        "$files": [
+            "views\\Introduce.vue"
+        ]
+    },
+    "主营产品:碳钢法兰 / 不锈钢法兰 / 合金法兰": {
+        "cht": "主營產品：碳鋼法蘭/不銹鋼法蘭/合金法蘭",
+        "en": "Main products: Carbon steel flange/stainless steel flange/alloy flange",
+        "jp": "主な製品：炭素鋼フランジ/ステンレス鋼フランジ/合金フランジ",
+        "de": "Hauptprodukte: Kohlenstoffstahl Flansch/Edelstahl Flansch/Legierung Flansch",
+        "ara": "الكربون الصلب شفة / الفولاذ المقاوم للصدأ شفة / سبائك",
+        "kor": "주요 제품: 탄소강 플랜지 / 스테인리스강 플랜지 / 합금 플랜지",
+        "$files": [
+            "views\\falan.vue"
+        ]
+    },
+    "主营产品:碳钢管件 / 不锈钢管件 / 合金管件": {
+        "cht": "主營產品：碳鋼管件/不銹鋼管件/合金管件",
+        "en": "Main products: carbon steel pipe fittings/stainless steel pipe fittings/alloy pipe fittings",
+        "jp": "主な製品：炭素鋼管部品/ステンレス鋼部品/合金部品",
+        "de": "Hauptprodukte: Kohlenstoffstahl Rohrverschraubungen/Edelstahl Rohrverschraubungen/Legierung Rohrverschraubungen",
+        "ara": "المنتجات الرئيسية : أنابيب الكربون الصلب / الفولاذ المقاوم للصدأ الأنابيب والتجهيزات / سبائك الأنابيب والتجهيزات",
+        "kor": "주요 제품: 탄소 강철 파이프 / 스테인리스 강철 파이프 / 합금 파이프",
+        "$files": [
+            "views\\guanjian.vue"
+        ]
+    }
+}
